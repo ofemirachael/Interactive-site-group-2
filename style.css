@@ -364,3 +364,17 @@ footer {
     overflow: auto;
   }
   
+  .studentData{
+    width: 70%;
+    margin: 0 auto;
+  }
+  .studenthead{
+    background-color: #e08912;
+    color: #fff;
+    height: 40px;
+  }
+
+  .headings{
+    text-align: center;
+    margin-top: 40px;
+  }
